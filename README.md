@@ -1,17 +1,13 @@
-### Hi there 👋
+### Hello There, I'm JOVANOVIC Rémy👋
 
+##I'm a Ingineer student at ECE Paris, and my goal is to study AI.
 
-**aym00n-djrak/aym00n-djrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#About me:
 
-Here are some ideas to get you started:
+- 🚀 I’m currently learning Information system.
+- 🔭 I’m currently working on "Les fermes de Gally" during my weekend.
+- 📫 How to reach me: remyj@outlook.fr
+- 
+My stats:
 
-- 🔭 I’m currently working on "Les fermes
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-![JOVANOVIC Rémy GitHub stats](https://github-readme-stats.vercel.app/api?username=aym00n-djrak)
+![JOVANOVIC Rémy GitHub stats](https://github-readme-stats.vercel.app/api?username=aym00n-djrak&show_icons=true&them=tokyonight)
