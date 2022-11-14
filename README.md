@@ -10,4 +10,4 @@
 
 #My stats:
 
-![JOVANOVIC Rémy GitHub stats](https://github-readme-stats.vercel.app/api?username=aym00n-djrak&show_icons=true&theme=radical)
+![JOVANOVIC Rémy GitHub stats](https://github-readme-stats.vercel.app/api?username=aym00n-djrak&show_icons=true&theme=tokyonight)
