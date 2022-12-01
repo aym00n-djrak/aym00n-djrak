@@ -1,6 +1,6 @@
 ### Hello There, I'm JOVANOVIC Rémy👋
 
-## I'm a Ingineer student at ECE Paris, and my goal is to study AI.
+## I'm a Engineer student at ECE Paris, and my goal is to study AI.
 
 # About me:
 
